@@ -1,7 +1,9 @@
 # SimpleLapse
 
 SimpleLapse is a **browser-based timelapse image capture tool** (HTML + JavaScript) that lets you preview a camera feed and save JPEG frames to a folder at a fixed interval—no Python installs, no OpenCV, no CLI.
-
+<div style="font-size: 1.6em; font-weight: 800; margin: 0.3em 0 0.6em;">
+  🔗 Live Demo: <a href="https://abulalarabi.com/simplelapse.html">https://abulalarabi.com/simplelapse.html</a>
+</div>
 ![SimpleLapse Screenshot](1.png)
 
 ## What you can do with SimpleLapse
